@@ -1,0 +1,4 @@
+﻿  gehalt.c
+C:\Users\xlenz\source\repos\SWE\BetriebsGehälter\BetriebsGehälter\gehalt.c(32,37): warning C4244:  "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\xlenz\source\repos\SWE\BetriebsGehälter\BetriebsGehälter\gehalt.c(36,38): warning C4244:  "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  BetriebsGehälter.vcxproj -> C:\Users\xlenz\source\repos\SWE\BetriebsGehälter\Debug\BetriebsGehälter.exe

@@ -1,0 +1,3 @@
+﻿  MatrixAusgabe.c
+C:\Users\xlenz\Google Drive\FH\1. Semester\SWE1\Programme\MatrixAusgabe\MatrixAusgabe\MatrixAusgabe.c(40,10): warning C4013: "system" undefiniert; Annahme: extern mit Rückgabetyp int
+  MatrixAusgabe.vcxproj -> C:\Users\xlenz\Google Drive\FH\1. Semester\SWE1\Programme\MatrixAusgabe\Debug\MatrixAusgabe.exe

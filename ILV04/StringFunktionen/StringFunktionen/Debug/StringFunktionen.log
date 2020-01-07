@@ -1,0 +1,4 @@
+﻿  StringFunktionen.c
+C:\Users\xlenz\Google Drive\FH\1. Semester\SWE1\Programme\StringFunktionen\StringFunktionen\StringFunktionen.c(33,6): warning C4013: "gets" undefiniert; Annahme: extern mit Rückgabetyp int
+C:\Users\xlenz\Google Drive\FH\1. Semester\SWE1\Programme\StringFunktionen\StringFunktionen\StringFunktionen.c(28,7): warning C4101: "stringAppend": Unreferenzierte lokale Variable
+  StringFunktionen.vcxproj -> C:\Users\xlenz\Google Drive\FH\1. Semester\SWE1\Programme\StringFunktionen\Debug\StringFunktionen.exe

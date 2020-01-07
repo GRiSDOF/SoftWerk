@@ -1,0 +1,3 @@
+﻿  MatCalc10.c
+C:\Users\xlenz\Google Drive\FH\1. Semester\SWE1\Programme\MatCalc10\MatCalc10\MatCalc10.c(44,10): warning C4013: "system" undefiniert; Annahme: extern mit Rückgabetyp int
+  MatCalc10.vcxproj -> C:\Users\xlenz\Google Drive\FH\1. Semester\SWE1\Programme\MatCalc10\Debug\MatCalc10.exe

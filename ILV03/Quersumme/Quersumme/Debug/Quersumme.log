@@ -1,0 +1,3 @@
+﻿  Quersumme.c
+C:\Users\xlenz\source\repos\SWE\Quersumme\Quersumme\Quersumme.c(29,6): warning C4013:  "gets" undefiniert; Annahme: extern mit Rückgabetyp int
+  Quersumme.vcxproj -> C:\Users\xlenz\source\repos\SWE\Quersumme\Debug\Quersumme.exe
